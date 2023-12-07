@@ -1,5 +1,5 @@
 compile:
-	g++ *.cpp -Wall
+	gcc *.c -Wall
 	./a.out
 clean:
 	rm *.out
