@@ -1,3 +1,5 @@
+25/25
+
 This is my solutions to 2023 advent of code
 problems can be viewed here: https://adventofcode.com/2023
 
